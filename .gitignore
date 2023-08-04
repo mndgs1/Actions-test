@@ -1,2 +1,4 @@
 /node_modules
 .env
+.github/workflows/static.yml
+.github/workflows/blank.yml
